@@ -1,0 +1,22 @@
+{
+  "name": "saludame-dos",
+  "version": "1.0.0",
+  "description": "Saludo 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos1397/saludame-dos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos1397/saludame-dos/issues"
+  },
+  "homepage": "https://github.com/Carlos1397/saludame-dos#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
